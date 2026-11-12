@@ -1,1 +1,11 @@
-# Ubuntu-netork-lab
+# Ubuntu-network-lab
+    - [ ] Downloaded proper ARM file 
+    - [ ] Manually configured ip addresses for both virtual machines
+        - [ ] No automatic ip addresses 
+        - [ ] Set VM 1 ip address under ipv4 to 192.168.56.xxx
+        - [ ] Set VM 2 ip address under ipv4 to 192.168.56.xxx
+    - [ ] Confirmed 2 way communication 
+        - [ ] Used ip addr to confirm VM 1 as 192.168.56.xxx
+        - [ ] Used ip addr to confirm VM 2 as 192.168.56.xxx
+        - [ ] Used ping 192.168.56.xxx on VM 1 to confirm one way connectivity 
+        - [ ] Used ping 192.168.56.xxx on VM 2 to confirm 2 way communication 
